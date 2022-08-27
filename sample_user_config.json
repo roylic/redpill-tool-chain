@@ -5,11 +5,11 @@
         "sn": "1780PDN383748",
         "mac1": "00113212a450",
         "SataPortMap": "62",
-        "DiskIdxMap": "06"
+        "DiskIdxMap": "0006"
     },
     "synoinfo": {
 	"internalportcfg": "0x0f",
-	"maxlanport": "0xf0"
+	"esataportcfg": "0xf0"
     },    
     "ramdisk_copy": {},
     "extensions": []
